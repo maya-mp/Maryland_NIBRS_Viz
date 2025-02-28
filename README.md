@@ -1,14 +1,30 @@
 # Exploring Crime Data in Maryland City by City
 
-#Accessing Dashboard:
-  -Option 1: Download the NIBRS2022.twbx file
-  -Option 2: The web hosted link: https://public.tableau.com/shared/ZD92KX663?:display_count=n&:origin=viz_share_link 
+---
 
-#What is NIBRS and why explore this dataset?
-The National Incident-Based Reporting System is a standardized reporting system within the United States managed by the FBI for all crime response agencies. Previously. The SRS for self-reported crime data was utilized alongside NIBRS and was recently replaced permanently with the sole focus of NIBRS for more data quality and reliability. Learning this was intriguing as I had learned about both systems in one of my favorite Gen Ed classes, CCJS100 Introduction to Criminal Justice. I wanted to explore it further and see the data collected and how it was documented for such a large-scale database. Discussion of NIBRS was a crucial portion of the class so working through the data to plan through my Tableau sheets made me reflect on the magnitude of importance of the topics discussed in my class. 
+## Accessing the Dashboard
 
-#Documents in this repo:
-  -NIBRS2022.twbx: the main file/dashboard
-  -IncidentLevelReducedDataMD_Cleaned.csv: the cleaned dataset imported into tableau
-    -Documentation can be found here: https://www.icpsr.umich.edu/web/NACJD/series/128
-  -Visualization_Report: a description of how I approached my project and future considerations
+You have two options to access the dashboard:
+
+- **Option 1:** Download the `NIBRS2022.twbx` file
+- **Option 2:** Access via the web-hosted link:  
+  [NIBRS 2022 Dashboard](https://public.tableau.com/shared/ZD92KX663?:display_count=n&:origin=viz_share_link)
+
+---
+
+## What is NIBRS and Why Explore This Dataset?
+
+The **National Incident-Based Reporting System (NIBRS)** is a standardized reporting system managed by the FBI for crime response agencies across the United States. Previously, the **SRS** (Self-Reported Crime Data) was used in conjunction with NIBRS, but it was recently replaced with NIBRS as the sole focus to ensure more reliable and high-quality data.
+
+Learning about this transition was particularly intriguing as I encountered both systems in my **CCJS100 - Introduction to Criminal Justice** course. The exploration of NIBRS deepened my understanding of how crime data is systematically documented for such a vast database. The discussion of NIBRS was a crucial part of the class, and working with this data in Tableau made me reflect on the importance of the topics discussed in my studies.
+
+---
+
+## Documents in This Repo
+
+This repository contains the following key files:
+
+- **`NIBRS2022.twbx`**: The main file/dashboard
+- **`IncidentLevelReducedDataMD_Cleaned.csv`**: The cleaned dataset imported into Tableau  
+  - Documentation for this dataset can be found [here](https://www.icpsr.umich.edu/web/NACJD/series/128)
+- **`Visualization_Report`**: A description of how I approached the project and considerations for future improvements
